@@ -2,3 +2,7 @@
 __pycache__
 *.egg-info
 *.so
+
+# git
+taming-transformers
+clip
