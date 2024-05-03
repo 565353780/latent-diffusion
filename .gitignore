@@ -1,0 +1,4 @@
+# compiled
+__pycache__
+*.egg-info
+*.so
